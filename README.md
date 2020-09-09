@@ -1,5 +1,8 @@
 # Hill_learning_lab
 _Life of a Vet_
+![Image of the American flag with a soilder suluting](https://www.liberaldictionary.com/wp-content/uploads/2018/11/veteran.png)
 > ## To our men and women in uniform, past, present, and future, God bless you and thank you.
   :white_flag:    :white_flag:           :white_flag:                                                                                                                                                                   
 [link to Veterans Benefits!](https://www.military.com/benefits/veteran-benefits)
+
+~2004~ **2003**
