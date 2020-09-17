@@ -6,3 +6,4 @@ _Life of a Vet_
 [link to Veterans Benefits!](https://www.military.com/benefits/veteran-benefits)
 
 ~2004~ **2003**
+I am an army veteran who served 10yrs 
