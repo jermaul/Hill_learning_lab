@@ -17,6 +17,6 @@ Steganography is the practice of hiding of one file within another. The same sch
 First install Python 3.8 or higher. Next intall the Atom app. Atom is a respectable editor and keybinding plugins are available for those of us that grew up with Emacs and Vim so that we can have a mouse-free coding experience.
 
 # Demo 
-![](image/bed.jpg)
+![bed](https://user-images.githubusercontent.com/70106332/101435464-6432aa00-38da-11eb-83e9-c594c93a2be8.jpg)
 
 
