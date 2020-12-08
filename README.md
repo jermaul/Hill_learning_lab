@@ -29,5 +29,5 @@ image with hidden code
 
 # Use Stegano as a library in your Python program
 If you want to use Stegano in your Python program you just have to import the appropriate steganography technique. For example:
->>> file = open('bed.jpg', "rb")
+
 
