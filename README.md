@@ -7,3 +7,9 @@ _Life of a Vet_
 
 ~2004~ **2003**
 I am an army veteran who served 10yrs 
+
+
+
+# Steganography 
+Steganography is the practice of hiding of one file within another. The same scheme can be applied to other digital media (audio and video), where data is hidden in parts of the file that result in the least change to the audible or visual output.
+
