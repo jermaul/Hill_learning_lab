@@ -20,5 +20,8 @@ First install Python 3.8 or higher. Next intall the Atom app. Atom is a respecta
 ![bed](https://user-images.githubusercontent.com/70106332/101435464-6432aa00-38da-11eb-83e9-c594c93a2be8.jpg)
 Plan image
 
+![image2](https://user-images.githubusercontent.com/70106332/101435684-c55a7d80-38da-11eb-87d3-91d1b71775fb.jpg)
+image with hidden code
+
 
 
