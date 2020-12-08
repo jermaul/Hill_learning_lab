@@ -13,3 +13,8 @@ I am an army veteran who served 10yrs
 # Steganography 
 Steganography is the practice of hiding of one file within another. The same scheme can be applied to other digital media (audio and video), where data is hidden in parts of the file that result in the least change to the audible or visual output.
 
+# Usage
+First install Python 3.8 or higher. Next intall the Atom app. Atom is a respectable editor and keybinding plugins are available for those of us that grew up with Emacs and Vim so that we can have a mouse-free coding experience.
+
+# Demo 
+
