@@ -28,21 +28,15 @@ image with hidden code
 [senior project_2.zip](https://github.com/jermaul/Hill_learning_lab/files/5656698/senior.project_2.zip)
 
 # Use Stegano as a library in your Python program
+If you want to use Stegano in your Python program you just have to import the appropriate steganography technique. For example:
+>>>file = open('bed.jpg', "rb")
+>>>image = file.read()
+>>>file.close()
+>>>image = bytearray(image)
+>>>key =48
+>>>for i,j in enumerate(image)
+   >>> image[1]= j^key
 
-file = open('bed.jpg', "rb")
-
-image = file.read()
-file.close()
-
-image = bytearray(image)
-
-key =48
-
-for i,j in enumerate(image)
-    image[1]= j^key
-
-file.open("bed2.jpg", "wb")
-file.write(image)
-file.close()
-
-
+>>>file.open("bed2.jpg", "wb")
+>>>file.write(image)
+>>>file.close()
