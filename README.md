@@ -31,5 +31,8 @@ image with hidden code
 If you want to use Stegano in your Python program you just have to import the appropriate steganography technique. For example:
 [steganograph.zip](https://github.com/jermaul/Hill_learning_lab/files/5656799/steganograph.zip)
 
+# Tools
+
+7-Zip link: https://www.7-zip.org/
 
 
