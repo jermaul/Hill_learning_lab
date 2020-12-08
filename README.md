@@ -34,5 +34,7 @@ If you want to use Stegano in your Python program you just have to import the ap
 # Tools
 
 7-Zip link: https://www.7-zip.org/
+Download Python: https://www.python.org/
+Download Atom IDE: https://atom.io/
 
 
