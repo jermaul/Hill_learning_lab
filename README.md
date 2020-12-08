@@ -14,7 +14,7 @@ I am an army veteran who served 10yrs
 Steganography is the practice of hiding of one file within another. The same scheme can be applied to other digital media (audio and video), where data is hidden in parts of the file that result in the least change to the audible or visual output.
 
 # Usage
-First install Python 3.8 or higher. Next intall the Atom app. Atom is a respectable editor and keybinding plugins are available for those of us that grew up with Emacs and Vim so that we can have a mouse-free coding experience.
+First install Python 3.8 or higher. Next intall the Atom app. Atom is a respectable editor and keybinding plugins are available for those of us that grew up with Emacs and Vim so that we can have a mouse-free coding experience. 7-zip compression software.
 
 # Demo 
 ![bed](https://user-images.githubusercontent.com/70106332/101435464-6432aa00-38da-11eb-83e9-c594c93a2be8.jpg)
